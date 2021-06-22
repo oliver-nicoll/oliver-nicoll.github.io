@@ -207,11 +207,11 @@ sup {
 }
 
 a {
-  color: #1D809F;
+  color: darksalmon;
   text-decoration: underline;
 }
 a:hover {
-  color: #17667f;
+  color: darksalmon;
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
@@ -2948,13 +2948,13 @@ textarea.form-control-lg {
 
 .btn-primary {
   color: #fff;
-  background-color: #1D809F;
-  border-color: #1D809F;
+  background-color: darkgray;
+  border-color: black;
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #196d87;
-  border-color: #17667f;
+  background-color: lightsalmon;
+  border-color: black;
 }
 .btn-check:focus + .btn-primary, .btn-primary:focus {
   color: #fff;
@@ -3158,12 +3158,12 @@ textarea.form-control-lg {
 
 .btn-dark {
   color: #fff;
-  background-color: #212529;
+  background-color: darkgray;
   border-color: #212529;
 }
 .btn-dark:hover {
   color: #fff;
-  background-color: #1c1f23;
+  background-color: lightsalmon;
   border-color: #1a1e21;
 }
 .btn-check:focus + .btn-dark, .btn-dark:focus {
@@ -7365,7 +7365,7 @@ textarea.form-control-lg {
 }
 
 .text-white {
-  color: #fff !important;
+  color: black !important;
 }
 
 .text-body {
@@ -7389,7 +7389,7 @@ textarea.form-control-lg {
 }
 
 .bg-primary {
-  background-color: #1D809F !important;
+  background-color: darkgray !important;
 }
 
 .bg-secondary {
@@ -10968,7 +10968,7 @@ html {
 
 .callout {
   padding: 15rem 0;
-  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../assets/img/bg-callout.jpg");
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../assets/img/simpleone.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -10991,12 +10991,12 @@ footer.footer .social-link {
   width: 4rem;
   line-height: 4.3rem;
   font-size: 1.5rem;
-  background-color: #1D809F;
+  background-color: darksalmon;
   transition: background-color 0.15s ease-in-out;
   box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
 }
 footer.footer .social-link:hover {
-  background-color: #155d74;
+  background-color: black;
   text-decoration: none;
 }
 
@@ -11023,7 +11023,7 @@ footer.footer .social-link:hover {
   height: auto;
   padding-top: 8rem;
   padding-bottom: 8rem;
-  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../assets/img/bg-masthead.jpg");
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../assets/img/simpletwo.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -11109,7 +11109,7 @@ footer.footer .social-link:hover {
 
 .service-icon {
   background-color: #fff;
-  color: #1D809F;
+  color: black;
   height: 7rem;
   width: 7rem;
   display: block;
