@@ -11053,7 +11053,7 @@ footer.footer .social-link:hover {
   display: flex;
   height: 100%;
   width: 100%;
-  background-color: rgba(91, 58, 47, 0.2);
+  background-color: rgba(91, 58.82, 47.84, 0.2);
   position: absolute;
   top: 0;
   bottom: 0;
@@ -11101,7 +11101,7 @@ footer.footer .social-link:hover {
             clip-path: inset(2rem);
   }
   .portfolio-item:hover .caption {
-    background-color: rgba(29, 128, 159, 0.9);
+    background-color: rgba(91, 58.82, 47.84, 0.9);
     -webkit-clip-path: inset(2rem);
             clip-path: inset(2rem);
   }
